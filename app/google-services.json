@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "524383053371",
+    "firebase_url": "https://call-log-90842.firebaseio.com",
+    "project_id": "call-log-90842",
+    "storage_bucket": "call-log-90842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524383053371:android:198b4fd22841bd2d",
+        "android_client_info": {
+          "package_name": "com.example.oscar.a58calllog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524383053371-58a7gb7pbtepqshr2cdjgh3lfk0tod8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oscar.a58calllog",
+            "certificate_hash": "fa80e3c0bf62dc9b03cb2b2bbd0ce293a4e44a33"
+          }
+        },
+        {
+          "client_id": "524383053371-q549pd3drpg4g832jptu2visp6t47im5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHguJ1JrGKV3hyZPclM29DcXv8Z5RQVn4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524383053371-q549pd3drpg4g832jptu2visp6t47im5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
